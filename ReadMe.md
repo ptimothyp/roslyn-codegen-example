@@ -16,3 +16,6 @@ dotnet new console -o RoslynCodeGenExample
 dotnet sln RoslynCodeGenExample.sln add  RoslynCodeGenExample/RoslynCodeGenExample.csproj
 ```
 
+
+## References
+https://www.stevejgordon.co.uk/getting-started-with-the-roslyn-apis-writing-code-with-code
